@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Made by Tushar8982](https://img.shields.io/badge/Made%20by-Tushar8982-blue)](https://github.com/Tushar8982)
 
 A simplified crypto trading bot built in Python for the Binance USDT-M Futures **Testnet**. This bot allows you to place real-time **Market** and **Limit** orders via a clean and interactive CLI. It also features structured logging, error handling, and a modular codebase ready for future improvements.
 
