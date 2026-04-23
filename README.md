@@ -101,20 +101,6 @@ Status: FILLED
 
 ---
 
-## 📬 How to Apply
-
-Send the following to **chetan@primetrade.ai** and **sonika@primetrade.ai**:
-
-- ✅ GitHub repo link  
-- ✅ Log files from the `/logs` folder  
-- ✅ Your updated resume  
-
-**Email Subject:**  
-`Junior Python Developer – Crypto Trading Bot`
-
-> 🕒 Pro tip: Apply within the first 72 hours for a better chance of selection. First come, first serve!
-
----
 
 ## 🧠 Ideal For
 
@@ -132,6 +118,5 @@ Licensed under the [MIT License](LICENSE).
 ---
 
 ## 🙌 Connect
-
-**Made with 💻 by [Tushar8982](https://github.com/Tushar8982)**  
+ 
 Feel free to ⭐️ the repo if you find it useful!
